@@ -2,6 +2,8 @@
 
 This repository contains STL files for printing your own **Cashu Figure**
 
+![Cashu figure](image.jpg)
+
 ---
 
 ## 🧩 Included Files
