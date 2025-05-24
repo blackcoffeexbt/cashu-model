@@ -31,6 +31,7 @@ This repository contains STL files for printing your own **Cashu Figure**
 ## 🧷 Print Settings
 
 - **Supports:** Required for all parts. DYOR.
+- **Height:** Scale as desired.
 - **Layer Height:** 0.2mm recommended
 - **Infill:** 10–20%
 - **Material Suggestions:**
